@@ -1,6 +1,6 @@
-# Construccion Cinematico Lineal
+# Construcción Cinemático Lineal
 
-Proyecto desarroyado dentro de la I Convocatoria [CeSAr-Etopia Labs] (http://cesar-etopia.bifi.es/)
+Proyecto desarrollado dentro de la I Convocatoria [CeSAr-Etopia Labs] (http://cesar-etopia.bifi.es/)
 
 ##Descripción
 
@@ -22,3 +22,6 @@ El control de movimientos de motores se programará en Arduino.
 Proyección:
 La proyección que se realizará sobre la construcción estará compuesta de fotografías y de visuales generados con Processing.
 Estos estarán relacionados y coordinados con el movimiento de la construcción.
+
+##Bitácora
+Podéis encontrar una bitácora del proceso en la página del autor [Javier Roche](http://javierroche.es/category/cesar/)
