@@ -1,0 +1,9 @@
+#Checklist diseño
+
+Intentar hacer un ensamblaje de la carcasa lateral sin tornillos.
+Las paredes irán sujetas al fondo con un sistema sin tornillos.
+Tener en cuenta en el montaje de los ejes el dejar hueco para tarjetas.
+Revisar el sistema de sujeción de los finales de carrera.
+Pensar posicionamiento motor arista.
+Pensar tamaño y material mesas de los cilindros.
+Pensar forma de la punta de los cilindros.
