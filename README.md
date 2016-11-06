@@ -23,5 +23,13 @@ Proyección:
 La proyección que se realizará sobre la construcción estará compuesta de fotografías y de visuales generados con Processing.
 Estos estarán relacionados y coordinados con el movimiento de la construcción.
 
+<iframe width="600" height="900" src="http://flowchart.com/editor/?access=1&offline=1&ui=0&signature=8bda7e27#068e51666a61c3a1"></iframe>
+
 ##Bitácora
 Podéis encontrar una bitácora del proceso en la página del autor [Javier Roche](http://javierroche.es/category/cesar/)
+
+##Colaboradoras
+Daniel Ferrer
+María Blasco
+José Miguel Cuartero
+
