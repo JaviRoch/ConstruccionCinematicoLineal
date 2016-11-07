@@ -33,7 +33,5 @@ Podéis encontrar una bitácora del proceso en la página del autor [Javier Roch
 
 ##Colaboradoras
 
-Daniel Ferrer
-María Blasco
-José Miguel Cuartero
+Daniel Ferrer, María Blasco, José Miguel Cuartero
 
