@@ -10,35 +10,35 @@ bool stepFin
 
 //Variables coordenadas automático
 
-int consigX1
-int consigY1
-int consigZ1
+int consigU
+int consigV
+int consigW
 
-int consigX2
-int consigY2
-int consigZ2
+int consigX
+int consigY
+int consigZ
 
-float realX1
-float realY1
-float realZ1
+float realU
+float realV
+float realW
 
-float realX2
-float realY2
-float realZ2
+float realX
+float realY
+float realZ
 
-float distArista
+float disT
 
 //Variables manual
 
-float manX1
-float manY1
-float manZ1
+float manU
+float manV
+float manW
 
-float manX2
-float manY2
-float manZ2
+float manX
+float manY
+float manZ
 
-float manArista
+float manT
 
 //Modos
 
