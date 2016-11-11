@@ -25,7 +25,7 @@ Estos estarán relacionados y coordinados con el movimiento de la construcción.
 
 ##Diagrama de flujo
 
-Diagrama de flujo de flujo no editable, para ver, pulsar Sky & Try [Diagrama de flujo](http://flowchart.com/editor/#068e51666a61c3a1:206712)
+Diagrama de flujo de flujo no editable, para ver pulsar Sky & Try [Diagrama de flujo](http://flowchart.com/editor/#068e51666a61c3a1:206712)
 
 ##Bitácora
 
