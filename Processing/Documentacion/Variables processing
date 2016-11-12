@@ -5,6 +5,7 @@
 int step
 
 bool home
+bool homeFin
 bool consigAceptada
 bool stepFin
 

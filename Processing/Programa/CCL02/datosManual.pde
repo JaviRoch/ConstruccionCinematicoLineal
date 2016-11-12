@@ -10,8 +10,4 @@ public void datosManual(){
 	cp5.getController("step").setValue(step);
 
 
-
-	
-
-
 }
