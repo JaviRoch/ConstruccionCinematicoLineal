@@ -23,13 +23,22 @@ Proyección:
 La proyección que se realizará sobre la construcción estará compuesta de fotografías y de visuales generados con Processing.
 Estos estarán relacionados y coordinados con el movimiento de la construcción.
 
+##Bitácora
+
+Podéis encontrar una bitácora del proceso en la página del autor [Javier Roche](http://javierroche.es/category/cesar/)
+
+##Funcionamiento
+
+###Manual
+
+Se ha programado un modo manual con el que poder realizar movimientos controlados de los motores y visualizar de datos.
+Para entrar al modo manual se deberá que pulsar la letra 'm'
+
+
 ##Diagrama de flujo
 
 Diagrama de flujo de flujo no editable, para ver pulsar Sky & Try [Diagrama de flujo](http://flowchart.com/editor/#068e51666a61c3a1:206712)
 
-##Bitácora
-
-Podéis encontrar una bitácora del proceso en la página del autor [Javier Roche](http://javierroche.es/category/cesar/)
 
 ##Colaboradoras
 
