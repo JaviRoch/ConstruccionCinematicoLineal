@@ -30,20 +30,16 @@ float disT
 
 //Variables manual
 
-float manU
-float manV
-float manW
+float man_U
+float man_V
+float man_W
 
-float manX
-float manY
-float manZ
+float man_X
+float man_Y
+float man_Z
 
-float manT
+float man_T
 
-//Modos
-
-bool modAuto
-bool modManual
 
 
 
