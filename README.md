@@ -42,5 +42,5 @@ Diagrama de flujo de flujo no editable, para ver pulsar Sky & Try [Diagrama de f
 
 ##Colaboradoras
 
-Daniel Ferrer, María Blasco, José Miguel Cuartero
+Daniel Ferrer, María Blasco, José Miguel Cuartero, Fernando Aladrén, Javier Galán
 
