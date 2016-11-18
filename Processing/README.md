@@ -1,6 +1,6 @@
 
 
-[Listado de variables en processing](https://github.com/JaviRoch/ConstruccionCinematicoLineal/blob/master/Processing/Documentacion/Variables%20processing)
+[Listado de variables en processing](https://github.com/JaviRoch/ConstruccionCinematicoLinea/blob/master/Processing/Documentacion/Variables%20processing)
 
 
 ##Referencias externas
