@@ -9,6 +9,8 @@ bool homeFin
 bool consigAceptada
 bool stepFin
 
+String mensajeSerial
+
 //Variables coordenadas automático
 
 int consigU

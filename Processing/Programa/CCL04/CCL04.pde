@@ -2,21 +2,34 @@ import controlP5.*;
 
 ControlP5 cp5;
 
-public float man_U = 0;
-public float man_V = 0;
-public float man_W = 0;
-public float man_X = 0;
-public float man_Y = 0;
-public float man_Z = 0;
-public float man_T = 0;
-public int step = 0;
+//Variables creación de las líneas
+PImage img1;
+PVector start;
+PVector end;
+PVector start1;
+PVector end1;
+float m= 0;
+float m1= 0;
+int intenLinea = 0;
+
+//Variablles manual
+float man_U = 0;
+float man_V = 0;
+float man_W = 0;
+float man_X = 0;
+float man_Y = 0;
+float man_Z = 0;
+float man_T = 0;
+
+
+int step = 0;
 
 boolean home = false;
 boolean homeFin = false;
 
 
+void setup(){
 
-public void setup(){
 
 //Abrimos visualización a pantalla completa en la pantalla número 1
   fullScreen(1);
@@ -27,6 +40,12 @@ public void setup(){
   
 //Carga de elementos de manejo manuales
   pantallaManual();
+
+//Carga de imágenes
+  img1 = loadImage("lanzarote1.jpg");
+  
+  smooth(4);
+  
 }
 
 void keyPressed() {
@@ -51,7 +70,7 @@ void keyPressed() {
   
 } 
 
-public void draw(){
+void draw(){
 
 // Secuencia de pasos del programa
     if (step == 0) {
