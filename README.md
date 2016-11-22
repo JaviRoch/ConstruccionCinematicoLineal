@@ -23,6 +23,9 @@ Proyección:
 La proyección que se realizará sobre la construcción estará compuesta de fotografías y de visuales generados con Processing.
 Estos estarán relacionados y coordinados con el movimiento de la construcción.
 
+##Pad de comunicación
+Este [Pad](https://titanpad.com/gCRByKV6la) se utilizará como herramienta en la que ir anotando idéas, datos o enlaces interesantes para el proyecto.
+
 ##Bitácora
 
 Podéis encontrar una bitácora del proceso en la página del autor [Javier Roche](http://javierroche.es/category/cesar/)
