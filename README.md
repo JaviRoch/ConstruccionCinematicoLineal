@@ -32,10 +32,13 @@ Podéis encontrar una bitácora del proceso en la página del autor [Javier Roch
 
 ##Funcionamiento
 
+Los visuales están programados para funcionar con una pantalla de 1920 x 1080 píxeles. Se podrá ver en pantallas más pequeñas pero se perderá zona de visualización.
+
 ###Manual
 
 Se ha programado un modo manual con el que poder realizar movimientos controlados de los motores y visualizar de datos.
-Para entrar al modo manual se deberá que pulsar la letra 'm'
+Para entrar al modo manual se deberá pulsar la letra 'm'
+En el modo manual se puede avanzar de step con las teclas + y -
 
 
 ##Diagrama de flujo

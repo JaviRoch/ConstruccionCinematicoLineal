@@ -60,7 +60,7 @@
 #include "inicializacion.h"
 #include "TimerOne.h"
 
-#define acc 50
+#define acc 80
 
 /*VARIABLES GLOBALES*/
 byte indice = 0;    /*Indice de la cadena de datos que se envia desde processing*/
