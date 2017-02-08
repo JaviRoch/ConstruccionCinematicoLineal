@@ -1,0 +1,7 @@
+#define MSG_ORIGEN_OK     'a' //"Origen realizado con exito"
+#define MSG_MOTORES_ON    'b' //"Motores on"
+#define MSG_MOTORES_OFF   'c' //"Motores off"
+#define MSG_ARRANQUE      'd' //"Arranque ok"
+#define MSG_TARGET        'e' //"Destino alcanzado"
+#define MSG_AVISO_MOT_OFF 'g' //"Activar motores primero"
+#define MSG_OK            'h' //"Ok recepción coordenadas"
